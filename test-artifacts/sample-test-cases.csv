@@ -1,0 +1,4 @@
+id,title,priority,preconditions,steps,expected_result
+QA-001,Create task with valid title,P1,API available,POST /tasks with title=Review,201 and task returned
+QA-002,Reject blank title,P1,API available,POST /tasks with whitespace title,400 validation problem returned
+QA-003,Unknown route returns 404,P2,API available,GET /unknown,404 structured error returned

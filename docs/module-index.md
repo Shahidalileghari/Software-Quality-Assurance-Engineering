@@ -1,0 +1,16 @@
+# Module index
+
+- [00-foundations](00-foundations/README.md)
+- [01-test-planning](01-test-planning/README.md)
+- [02-manual-testing](02-manual-testing/README.md)
+- [03-unit-testing](03-unit-testing/README.md)
+- [04-integration-testing](04-integration-testing/README.md)
+- [05-api-testing](05-api-testing/README.md)
+- [06-contract-testing](06-contract-testing/README.md)
+- [07-e2e-testing](07-e2e-testing/README.md)
+- [08-test-doubles](08-test-doubles/README.md)
+- [09-tdd-bdd](09-tdd-bdd/README.md)
+- [10-performance-testing](10-performance-testing/README.md)
+- [11-security-accessibility](11-security-accessibility/README.md)
+- [12-ci-quality-gates](12-ci-quality-gates/README.md)
+- [13-advanced-strategy](13-advanced-strategy/README.md)
