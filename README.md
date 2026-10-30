@@ -94,8 +94,3 @@ See [`projects/`](projects/README.md) for progressive portfolio projects:
 ## Validation status
 This repository includes runnable examples and automation configuration. The ZIP archive was integrity-checked after creation. Runtime execution of npm dependencies, browser tests, and k6 was not performed in the generation environment; install dependencies and run the commands locally or in CI before relying on results.
 
-## Contribution
-See [CONTRIBUTING.md](CONTRIBUTING.md). Report security issues privately as described in [SECURITY.md](SECURITY.md).
-
-## License
-MIT. See [LICENSE](LICENSE).
